@@ -1,5 +1,4 @@
-# hospital-admission-analysis
-A simple healthcare data analysis project using Python
+
 # Hospital Admission Analysis
 This project analyzes hospital admission data to identify trends and insights.
 
